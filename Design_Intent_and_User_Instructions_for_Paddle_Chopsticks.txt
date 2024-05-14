@@ -1,0 +1,28 @@
+Design Intent and User Instructions for Paddle Chopsticks
+
+
+Paddle Chopsticks are created and released by wood, adhering to the terms and conditions outlined in the document titled "Creation and Use License Agreement for the 'Paddle Chopsticks' Design" included in the release documentation.
+
+The design intent of Paddle Chopsticks is to address the inconvenience of traditional chopsticks in gripping and stabilizing certain shaped foods. It aims to improve upon traditional chopsticks by introducing modifications.
+
+The improved Paddle Chopsticks come in three varieties:
+
+Full Paddle Chopsticks
+  File Names: full_paddle_sticks__short_type__finish, full_paddle_sticks__finish
+
+Half Paddle Chopsticks
+  File Names: (Note: The file name provided seems to be a duplicate of the Full Paddle Chopsticks' long type, so assuming it's a typo or similar design with a different focus, the file name is not specified here.)
+
+Mini Paddle Chopsticks
+  File Names: mini_paddle_sticks__short_type__finish
+
+I have created prototypes for all three types of Paddle Chopsticks and conducted prototype user experience tests. Among them, the Mini Paddle Chopsticks are the most suitable for daily use, while the other two are more convenient in specific scenarios.
+
+If you are interested in this design, you may consider producing and using the Mini Paddle Chopsticks as a priority.
+
+If you have any good ideas or wish to communicate with me during production and use, please feel free to contact me at the following email address: 9731484@qq.com. I wish you a pleasant experience!
+
+
+2024.05.14
+wood
+
