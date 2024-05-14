@@ -4,7 +4,7 @@ This creation (namely, the "Paddle Chopsticks" design, including but not limited
 Scope of License
 
 Attribution — You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work). This attribution must include the name of the creator wood, unless such attribution is not reasonably possible (for example, in some media formats).
-Non-Commercial Use — You may not use this work for commercial purposes.
+Permit Commercial Use — You can use this work for commercial purposes.
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same or similar license as the original.
 Additional Terms
 
